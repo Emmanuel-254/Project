@@ -12,6 +12,9 @@ Git
 ## Technologies used
 Github
 Javascript
+HTML
+CSS
+db.JSON
 ### License
 The content of this site is licensed under the MIT license
 Copyright (c) 2024.
