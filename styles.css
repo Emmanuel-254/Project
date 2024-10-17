@@ -1,0 +1,49 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    background-image: url(./image.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  
+  .container {
+    width: 50%;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  input {
+    width: 70%;
+    padding: 10px;
+    margin-right: 10px;
+  }
+  
+  button {
+    padding: 10px;
+  }
+  
+  #movie-details {
+    margin-top: 20px;
+  }
+
+.movie-layout {
+  display: flex;
+  justify-content: space-between;
+  padding: 20px;
+  font-weight: 900;
+}
+.Favourite-movie, .Trending-movie, .Downloads {
+text-align: center;
+padding: 10px; 
+flex-basis: 25%;
+}
+.Favourite-movie {
+  text-align: left;
+}
+.Trending-movie {
+  text-align: center;
+}
+.Downloads {
+  text-align: right;
+}
+

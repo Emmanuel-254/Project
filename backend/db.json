@@ -1,0 +1,94 @@
+{
+"movies": [
+    {
+      "id": 1,
+      "title": "Inception",
+      "year": "2010",
+      "genre": "Sci-Fi",
+      "rating": "8.8",
+      "poster": "inception.jpg",
+      "description": "A skilled thief is given a chance at redemption if he can successfully perform inception.",
+      "director": "Christopher Nolan",
+      "cast": [
+        "Leonardo DiCaprio",
+        "Joseph Gordon-Levitt",
+        "Elliot Page",
+        "Tom Hardy"
+      ],
+      "runtime": "148 min",
+      "language": "English"
+    },
+    {
+      "id": 2,
+      "title": "The Dark Knight",
+      "year": "2008",
+      "genre": "Action",
+      "rating": "9.0",
+      "poster": "dark_knight.jpg",
+      "description": "When the menace known as the Joker emerges from his mysterious past, he wreaks havoc and chaos on the people of Gotham.",
+      "director": "Christopher Nolan",
+      "cast": [
+        "Christian Bale",
+        "Heath Ledger",
+        "Aaron Eckhart",
+        "Michael Caine"
+      ],
+      "runtime": "152 min",
+      "language": "English"
+    },
+    {
+      "id": 3,
+      "title": "The Shawshank Redemption",
+      "year": "1994",
+      "genre": "Drama",
+      "rating": "9.3",
+      "poster": "shawshank.jpg",
+      "description": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.",
+      "director": "Frank Darabont",
+      "cast": [
+        "Tim Robbins",
+        "Morgan Freeman",
+        "Bob Gunton",
+        "William Sadler"
+      ],
+      "runtime": "142 min",
+      "language": "English"
+    },
+    {
+      "id": 4,
+      "title": "Parasite",
+      "year": "2019",
+      "genre": "Thriller",
+      "rating": "8.6",
+      "poster": "parasite.jpg",
+      "description": "Greedy and struggling to make ends meet, a poor family schemes to become employed by a wealthy family by infiltrating their household.",
+      "director": "Bong Joon-ho",
+      "cast": [
+        "Kang-ho Song",
+        "Sun-kyun Lee",
+        "Yeo-jeong Jo",
+        "Choi Woo-shik"
+      ],
+      "runtime": "132 min",
+      "language": "Korean"
+    },
+    {
+      "id": 5,
+      "title": "Forrest Gump",
+      "year": "1994",
+      "genre": "Drama/Romance",
+      "rating": "8.8",
+      "poster": "forrest_gump.jpg",
+      "description": "The presidencies of Kennedy and Johnson, the Vietnam War, the Watergate scandal, and other historical events unfold through the perspective of an Alabama man with an IQ of 75.",
+      "director": "Robert Zemeckis",
+      "cast": [
+        "Tom Hanks",
+        "Robin Wright",
+        "Gary Sinise",
+        "Sally Field"
+      ],
+      "runtime": "142 min",
+      "language": "English"
+    }
+  ]
+}
